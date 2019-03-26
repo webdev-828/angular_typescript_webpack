@@ -1,7 +1,5 @@
 # angular-typescript-webpack
 
-Angular + Typescript + Webpack build with Karma and wallaby tests support.
-And this all with sourcemaps in production support!!
 
 ### Install
 
